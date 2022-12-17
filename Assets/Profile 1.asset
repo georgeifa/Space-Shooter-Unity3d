@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 920ad73fca5bc754eb9a52f006834c85, type: 3}
+  m_Name: Profile 1
+  m_EditorClassIdentifier: 
+  saveInPlayerPrefs: 1
+  prefPrefix: Settings_
+  audioMixer: {fileID: 24100000, guid: 6df5de1382a93fb42b025d4ce0209fe1, type: 2}
+  volumeControl:
+  - name: Master
+    volume: 0
+    tempVolume: 0
+  - name: MenuMusic
+    volume: 0
+    tempVolume: 0
+  - name: GameMusic
+    volume: 0
+    tempVolume: 0
+  - name: MenuSFX
+    volume: 0
+    tempVolume: 0
+  - name: GameSFX
+    volume: 0
+    tempVolume: 0
