@@ -5,7 +5,7 @@ On top of the main game that you can create if you follow the now archived Unity
 
   > Main Menu
   
-    - Option to create new game or continue and a finished one.
+    - Option to create new game or continue and a unfinished one.
     - Choose among 3 different difficulties.
     - Set your preffered sound settings.
     - See the controls and how the game is played.
