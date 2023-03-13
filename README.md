@@ -12,7 +12,7 @@ On top of the main game that you can create if you follow the now archived Unity
     
   > Power Ups. During the game the user can collect among 3 different temporary buffs.
   
-    - Shield
+    - Shield: Shield for some time or until the next impact
     - Double tap: Shoot 2 bullets one after the other
     - Dual Fire: Shoot 2 bullets together
     
